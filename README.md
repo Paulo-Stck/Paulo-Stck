@@ -26,18 +26,18 @@
 
 ###
 
-<img align="right" height="110" src="https://minecraft.wiki/images/End_Gateway.gif?00b00"  />
+<img align="right" height="50" src="https://minecraft.wiki/images/End_Gateway.gif?00b00"  />
 
 ###
 
-<img align="right" height="150" src="https://minecraft.wiki/images/End_Gateway.gif?00b00"  />
+<img align="right" height="100" src="https://minecraft.wiki/images/End_Gateway.gif?00b00"  />
 
 ###
 
-<img align="right" height="250" src="https://minecraft.wiki/images/End_Gateway.gif?00b00"  />
+<img align="right" height="200" src="https://minecraft.wiki/images/End_Gateway.gif?00b00"  />
 
 ###
 
-<img align="right" height="400" src="https://minecraft.wiki/images/End_Gateway.gif?00b00"  />
+<img align="right" height="300" src="https://minecraft.wiki/images/End_Gateway.gif?00b00"  />
 
 ###
