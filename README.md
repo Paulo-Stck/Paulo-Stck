@@ -25,10 +25,19 @@
 </div>
 
 ###
-<br clear="both">
 
-<div align="center">
-  <img height="240" src="https://images.squarespace-cdn.com/content/565cb484e4b0060cdb7c2af1/1473178854715-96NE5TDJ8P0JLSOPXS62/Spring-Footsteps.gif?content-type=image%2Fgif"  />
-</div>
+<img align="right" height="110" src="https://minecraft.wiki/images/End_Gateway.gif?00b00"  />
+
+###
+
+<img align="right" height="150" src="https://minecraft.wiki/images/End_Gateway.gif?00b00"  />
+
+###
+
+<img align="right" height="250" src="https://minecraft.wiki/images/End_Gateway.gif?00b00"  />
+
+###
+
+<img align="right" height="400" src="https://minecraft.wiki/images/End_Gateway.gif?00b00"  />
 
 ###
